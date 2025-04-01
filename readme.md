@@ -105,11 +105,11 @@ dotnet ef database update
 2. Update the connection string in `appsettings.json`.
 3. Build and run the project.
 
-## Todo
+## Future Improvements
 - Authentication & Authorization
 - Error Handling & Logging
 - Unit tests and integration tests
-- Database operation testing through Entity Framework
+
 
 ## Screenshots
 
