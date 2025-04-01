@@ -1,0 +1,69 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# User-specific settings
+appsettings.Development.json
+appsettings.Production.json
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]istro/
+[Dd]eploy/
+[Dd]ebug/
+[Dd]ebug/
+[Dd]eploy/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET temporary files
+bin/
+obj/
+
+# ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+
+# NPM and Node.js
+node_modules/
+
+# IIS Express
+iisexpress/
+
+# VS for Mac
+.vscode/
+
+# Tye
+.tye/
+
+# Local db file for SQL Server
+*.mdf
+*.ldf
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Mac files
+.DS_Store
